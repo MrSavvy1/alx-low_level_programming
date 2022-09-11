@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  *using printf to print
  *in main
