@@ -1,8 +1,10 @@
 #include "main.h"
 
 /**
- *main print putchar
- *Return 0
+ *main: print putchar
+ *Return: 0
+ *
+ *Description: will print putchar
  */
 
 int main(void)
