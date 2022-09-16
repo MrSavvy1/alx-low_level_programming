@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
  * _isupper - check if a alphabet is upper or not
  * @c: is the character or variables to test
@@ -12,8 +12,6 @@ int _isupper(int c)
 	{
 		return (1);
 	}
-	else
-	{
-		return (0);
-	}
+	return (0);
+	
 }
