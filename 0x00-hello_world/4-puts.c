@@ -1,9 +1,11 @@
 #include <stdio.h>
-/**
-*This is a c program 
-*it prints a text using puts
-*it returns 0
+
+/*
+ *This is a C Program 
+ *This Functions  prints a text using puts
+ *The Returns 0
  */
+
 int main(void)
 {
      puts("\"Programming is like building a multilingual puzzle");
