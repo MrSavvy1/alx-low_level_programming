@@ -1,15 +1,17 @@
 #include <stdio.h>
 
 /**
- *This is a C Program 
- *main:This Functions  prints a text using puts
- *return: Renurns 0
- */
-
+ *  * main - the starting point, I think
+ *   *
+ *    * Return: This is where i describe what the return does
+ *     */
 int main(void)
 {
-	/*this function is for a loee*/
-     puts("\"Programming is like building a multilingual puzzle");
-     /*this return is a null*/
-     return (0);
+	  /* initialising strings */
+	char str[] = "\"Programming is like building a multilingual puzzle";
+
+	  /*writing to stdout */
+	puts(str);
+
+	return (0);
 }
