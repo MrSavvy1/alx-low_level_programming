@@ -1,13 +1,15 @@
 #include <stdio.h>
 
 /**
- *using printf to print
- *in main
- *grammer
+ * main - the starting point, I think
+ *   
+ * Return: This is where I describe what the return does
  */
-
 int main(void)
 {
-   printf("%s", "with proper grammer,but the outcome is a pieceo of art,\n");
-   return (0);
+
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+
+	return (0);
+
 }
