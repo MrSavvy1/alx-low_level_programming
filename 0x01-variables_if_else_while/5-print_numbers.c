@@ -11,7 +11,7 @@ int main(void)
 	/* some codes after declaration*/
 	for (alph = 0; alph < 10; alph++)
 	{
-		printf(alph);
+		printf("%d", alph);
 	}
 	putchar('\n');
 	return (0);
