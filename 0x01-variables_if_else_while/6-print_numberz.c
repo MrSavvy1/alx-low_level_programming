@@ -9,7 +9,7 @@ int main(void)
 {
 	int  alph;
 	/* some codes after declaration*/
-	for (alph = '0'; alph < '10'; alph++)
+	for (alph = '0'; alph <= '9'; alph++)
 	{
 		putchar(alph);
 		
