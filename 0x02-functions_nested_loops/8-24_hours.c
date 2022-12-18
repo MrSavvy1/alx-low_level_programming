@@ -2,9 +2,7 @@
 
 /**
  * jack_bauer - prints out every minute of the day
- *   
  */
-
 void jack_bauer(void)
 {
 	int x, y, z, k;
