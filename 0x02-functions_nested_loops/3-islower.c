@@ -2,7 +2,7 @@
 
 /**
  * _islower - checks for a lower case charactee
- * int c - is the parameter the islower uses
+ * @c: argument taken by _islower
  * Return: This program will return a value according to the
  */
 int _islower(int c)
