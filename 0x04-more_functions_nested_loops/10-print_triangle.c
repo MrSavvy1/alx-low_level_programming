@@ -8,6 +8,7 @@
 void print_triangle(int size)
 {
 	int x, y, k, w, t;
+	/* end declaration */
 	w = 1;
 	t = size;
 	if (size <= 0)
