@@ -1,12 +1,5 @@
-#ifndef MAIN_H_INCLUDED
-#define MAIN_H_INCLUDED
-#include <stdio.h>
-
-/**
- * main - header files
- * void prototypes (void)
- * int prototypes (int)
- */
+#ifndef MAIN_H
+#define MAIN_H
 
 int _putchar(char c);
 int _isupper(int c);
@@ -21,5 +14,4 @@ void print_square(int size);
 void print_triangle(int n);
 void print_number(int n);
 int pattern(int n);
-
 #endif /* MAIN_H */
