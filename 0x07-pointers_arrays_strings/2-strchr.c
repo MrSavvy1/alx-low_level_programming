@@ -9,6 +9,7 @@
 char *_strchr(char *s, char c)
 {
 	char *s1 = s - 1;
+	/* declaration ended */
 	do {
 		s1++;
 		if (*s1 == c)
